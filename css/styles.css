@@ -160,6 +160,10 @@ hr{
   text-decoration: none;
 }
 
+.footer-link:hover{
+  color: white;
+} 
+
 .declaration{
   color: white;
   font-size: 13px;
